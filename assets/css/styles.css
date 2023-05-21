@@ -352,10 +352,14 @@ button {
 .myproject-card {
     width: 350px;
     border: 1px solid #dbdbdb;
-    padding: 30px;
-    margin: 10px;
+    margin: 100px;
     border-radius: 10px;
     box-shadow: 0 0 15px #aea4a4; 
+}
+
+.bungkus {
+  padding: 10px;
+  margin: 20px;
 }
 
 .myproject-card div button {
